@@ -1,0 +1,12 @@
+{
+  "name": "Dezide Trade",
+  "short_name": "Dezide",
+  "lang": "th",
+  "description": "สมุดบันทึกการเทรด BTC พร้อมราคาเรียลไทม์เป็นเงินบาท",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F4EDE3",
+  "theme_color": "#4E5B29"
+}
